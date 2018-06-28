@@ -1,4 +1,4 @@
-# P2-Analyzing-the-NYC-subway-dataset
+ Analyzing-the-NYC-subway-dataset
 
 For this project we will explore the NYC subway dataset to achieve the following goals :
 
